@@ -1,0 +1,5 @@
+# Only these two public documentation files belong in Git history.
+# Player ZIPs and checksums are uploaded as release assets.
+/*
+!/README.md
+!/.gitignore
