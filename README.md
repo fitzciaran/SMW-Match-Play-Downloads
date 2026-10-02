@@ -3,11 +3,11 @@
 [SMW Match Play](https://smwmatchplay.co.uk) lets players race Super Mario World
 levels on supported emulators and SD2SNES / FXPak hardware.
 
-This repository provides player downloads through GitHub Releases. No release
-is available yet. The website will link to the appropriate setup package when
-a release is ready.
+This repository provides player downloads through
+[GitHub Releases](https://github.com/fitzciaran/SMW-Match-Play-Downloads/releases/latest).
+The [setup guides](https://smwmatchplay.co.uk/setup/) link to the matching packages.
 
-The planned downloads are:
+The downloads are:
 
 - Emulator setup: connector and guided patcher; bring your own supported emulator.
 - SD2SNES / FXPak setup: connector, guided patcher and SNI.
