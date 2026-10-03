@@ -1,21 +1,20 @@
-# SMW Match Play downloads
+# SMW Match Play
 
-[SMW Match Play](https://smwmatchplay.co.uk) lets players race Super Mario World
-levels on supported emulators and SD2SNES / FXPak hardware.
+Test alpha release of SMW Match Play.
 
-This repository provides player downloads through
-[GitHub Releases](https://github.com/fitzciaran/SMW-Match-Play-Downloads/releases/latest).
-The [setup guides](https://smwmatchplay.co.uk/setup/) link to the matching packages.
+Use the [setup guides](https://smwmatchplay.co.uk/setup/) or download a package
+from [Releases](https://github.com/fitzciaran/SMW-Match-Play-Downloads/releases/latest):
 
-The downloads are:
+- **Emulator:** open `Play SMW Match Play.exe` and select a supported emulator.
+- **SD2SNES / FXPak:** open `Play SMW Match Play SD2SNES.exe`.
+- **Patch only:** apply the included Match Play patch manually.
 
-- Emulator setup: connector and guided patcher; bring your own supported emulator.
-- SD2SNES / FXPak setup: connector, guided patcher and SNI.
-- Manual patch: BPS patch, instructions and credits.
+All three packages use an unchanged **SMW Practice Cart V3.-.9 (USA) ROM**.
+See the [Practice Cart page](https://isofrieze.com/romhacks/smwpractice/) for the
+supported prerelease. Setup verifies the input and keeps your original ROM.
+No ROM or emulator is included in these downloads.
 
-All packages require your own unmodified Super Mario World (USA) ROM. No ROM
-is distributed here. Release notes and SHA-256 checksums accompany each release;
-the notices included in each package apply to its contents.
-
-For setup information, visit [smwmatchplay.co.uk](https://smwmatchplay.co.uk).
-For help, email [contact@smwmatchplay.co.uk](mailto:contact@smwmatchplay.co.uk).
+Package sizes and SHA-256 checksums are on the
+[website](https://smwmatchplay.co.uk/setup/). Notices and credits accompany each
+package. This repository contains download information; game source is not
+included in its automatically generated source archives.
