@@ -9,7 +9,7 @@ from [Releases](https://github.com/fitzciaran/SMW-Match-Play-Downloads/releases/
 - **SD2SNES / FXPak:** open `Play SMW Match Play SD2SNES.exe`.
 - **Patch only:** apply the included Match Play patch manually.
 
-All three packages use an unchanged **SMW Practice Cart V3.-.9 (USA) ROM**.
+All three packages use an unchanged **SMW Practice Cart V3.-.9 ROM**.
 See the [Practice Cart page](https://isofrieze.com/romhacks/smwpractice/) for the
 supported prerelease. Setup verifies the input and keeps your original ROM.
 No ROM or emulator is included in these downloads.
